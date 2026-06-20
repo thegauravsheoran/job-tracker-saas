@@ -83,7 +83,7 @@ function SidebarHeader({ isCollapsed, onToggle }: SidebarHeaderProps) {
                 {APP_CONFIG.name}
               </span>
               <span className="text-[10px] text-sidebar-foreground/50">
-                Job Tracker
+                Career Platform
               </span>
             </div>
           </motion.div>

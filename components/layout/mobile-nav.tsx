@@ -33,7 +33,7 @@ export function MobileNav() {
                   {APP_CONFIG.name}
                 </SheetTitle>
                 <span className="text-[10px] text-sidebar-foreground/50">
-                  Job Tracker
+                  Career Platform
                 </span>
               </div>
             </div>
